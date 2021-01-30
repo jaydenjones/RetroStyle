@@ -1,5 +1,5 @@
 # RetroStyle
-SwampHacks 2021
+SwampHacks 2021 (University of Florida)
 
 Schema info:
 - background color
